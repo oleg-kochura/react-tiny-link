@@ -3,10 +3,7 @@
   "version": "3.5.0",
   "main": "lib/index.js",
   "dependencies": {
-   
-    
     "styled-components": "^4.1.3"
-    
   },
   "license": "MIT",
   "keywords": [
@@ -64,6 +61,5 @@
     "@types/node": "^11.12.1",
     "@types/react": "^16.8.10",
     "@types/react-dom": "^16.8.3"
-    
   }
 }
